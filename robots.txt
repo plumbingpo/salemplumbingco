@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salemplumbingco.com/sitemap.xml
